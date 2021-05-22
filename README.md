@@ -9,8 +9,10 @@ Dis is the Disastertron Lube station
 DXF 
 Drawing eXchange Format
 can be edited in fusion 360
-	v1
+	
+v1
 <img src="https://github.com/kenzivoy/Dis_Lube_station/blob/main/v1/station.png" width="auto" height="auto">
-	v2
+
+v2
 <img src="https://github.com/kenzivoy/Dis_Lube_station/blob/main/v2/station.png" width="auto" height="auto">
 
