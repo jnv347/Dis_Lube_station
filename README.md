@@ -1,4 +1,4 @@
-# lubedisstation
+# Dis Lube station
 Dis is the Disastertron Lube station
 
 	it is a fully open source lube station :) 
