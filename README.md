@@ -9,6 +9,8 @@ Dis is the Disastertron Lube station
 DXF 
 Drawing eXchange Format
 can be edited in fusion 360
+
+
 (the images are NOT to scale ) 
 if you want to see it in mesurment form look at it in fusion 360 that is the only soft i will recomend . 
 	
